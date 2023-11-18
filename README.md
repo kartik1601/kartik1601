@@ -2,7 +2,7 @@
 
 --------------------------------------------------
 
-Frontend Developer - Blockchain - Machine Learning
+Frontend Developer - Blockchain
 --------------------------------------------------
 
 I am an experienced C++ coder with over 5+ years of experience and well versed with data structures and algorithms. I have done many projects in the frontend domain and I'm currently diving into the web3.0 world as well as machine learning/model training.
@@ -10,7 +10,7 @@ I am an experienced C++ coder with over 5+ years of experience and well versed w
 *   🌍  I'm based in New Delhi, India
 *   🖥️  See my portfolio at [Portfolio](http://kartik-k646k-portfolio.netlify.app/)
 *   ✉️  You can contact me at [kartiku904@gmail.com](mailto:kartiku904@gmail.com)
-*   🧠  I'm learning Three.js, Next.js, OpenCV and Solidity.
+*   🧠  I'm learning Three.js, Next.js, and Solidity.
 *   🤝  I'm open to collaborating on Web3.0 projects.
 --------------------------------------------------
 
