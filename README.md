@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartik1601&theme=onedark&no-frame=false&no-bg=false&margin-w=4" alt="kartik1601" /></a> </p>
 
-- 🌱 I’m currently learning **OpenCV, Ethical Hacking & Cybersecurity, Linux & Unix distributions**
+- 🌱 I’m currently learning **OpenCV, Blockchain & Smart Contracts, Linux & Unix distributions**
 
 - 👨‍💻 All of my projects are available at **[Portfolio Website](https://kartik-k646k-portfolio.netlify.app/)**
 
-- 💬 Ask me about **Backend, Servers, Databases, Operating Systems**
+- 💬 Ask me about **Blockchain, Backend, Servers, Databases, Operating Systems**
 
 - 📫 How to reach me **kartiku904@gmail.com**
 
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1EUReo4z6PZ6vHmMm_3wHUbOr_hmttbJs/view?usp=sharing)**
+- 📄 Know about my experiences **[Resume](https://docs.google.com/document/d/1yiajtZWRE9IcnEPg2E2dTckqsL5jS9mxgG9_y4xy8Uk/edit?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
